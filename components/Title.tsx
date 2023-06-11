@@ -15,7 +15,7 @@ const Title = ({ text, icon }: Props) => {
         group-hover:translate-x-0 transition-transform duration-300"
         ></span>
       </h3>
-      <span>{icon}</span>
+      <span className="text-blue-600">{icon}</span>
     </div>
   );
 };
