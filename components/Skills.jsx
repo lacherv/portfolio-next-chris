@@ -9,6 +9,10 @@ const Skills = () => {
       <div className="flex gap-4 flex-wrap">
         <SkillsInput title="JavaScript" link="" />
         <SkillsInput title="TailwindCSS" link="https://tailwindcss.com/" />
+        <SkillsInput title="CSS3" link="" />
+        <SkillsInput title="Trello" link="" />
+        <SkillsInput title="Jira" link="" />
+        <SkillsInput title="Python" link="" />
         <SkillsInput title="Reactjs" link="https://react.dev/" />
         <SkillsInput title="Nextjs" link="https://nextjs.org/" />
         <SkillsInput title="Nodejs" link="https://nodejs.org/en" />
