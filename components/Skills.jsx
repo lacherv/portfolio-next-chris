@@ -12,6 +12,7 @@ const Skills = () => {
         <SkillsInput title="TypeScript" link="" />
         <SkillsInput title="TailwindCSS" link="https://tailwindcss.com/" />
         <SkillsInput title="CSS3" link="" />
+        <SkillsInput title="Styled Components" link="https://styled-components.com/" />
         <SkillsInput title="Reactjs" link="https://react.dev/" />
         <SkillsInput title="Nextjs" link="https://nextjs.org/" />
         <SkillsInput title="Trello" link="" />
