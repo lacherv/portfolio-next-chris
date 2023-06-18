@@ -10,8 +10,6 @@ const AboutMe = () => {
           King delivered his prayer for our country. This has bred more fear and
           mistrust. Hamas does have support among some Palestinians, but they
           also have responsibilities. I know that for many, the face of
-          globalization is contradictory.It is a war I am proud I opposed from the
-          start - a war that should never have been authorized and never been
           waged. It was innovation in Muslim communities that developed the
           order of algebra; our magnetic compass and tools of navigation; our
           mastery of pens and printing; our understanding of how disease spreads
